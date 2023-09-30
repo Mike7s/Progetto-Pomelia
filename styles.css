@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-image:url(images/Agriturismo.jpeg);
+    background-size: cover;
+  }
+
+  .page {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+
+h1 {
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color:darkgreen;
+    padding-top: 8%;
+}
+
+.mission {
+  font-weight: bold;
+  color:black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.button {
+  color:white;
+  background-color:#57B74A;
+  text-align: center;
+  width: 200px;
+  margin: 0%;
+  margin-top: 20px;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.logo {
+    margin: 15px;
+}
+
+.social{
+  margin: 20px auto;
+}
